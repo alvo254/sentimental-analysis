@@ -2,6 +2,9 @@
 import tweepy
 from textblob import TextBlob
 
+# create a twitter app from twitter.developers and fill in the lines bellow 7 to 10 
+# If unable please look for indepth tutorials on how to create a twitter app 
+
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
 ACCESS_KEY = ''
